@@ -604,6 +604,10 @@ h6,
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
   color: #7e9b9f!important;
 }
+#social-buttons4-r .mbr-section-title,
+#social-buttons4-r .btn-social {
+  color: #fff;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -667,4 +671,8 @@ h6,
 }
 #slider-l H2 {
   color: #c1c1c1;
+}
+#social-buttons4-q .mbr-section-title,
+#social-buttons4-q .btn-social {
+  color: #fff;
 }
